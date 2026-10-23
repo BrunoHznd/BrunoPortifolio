@@ -1,0 +1,14 @@
+{
+  "name": "bruno-oliveira-carvalho-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "devDependencies": {
+    "linkedom": "^0.18.14",
+    "sharp": "^0.35.5"
+  }
+}
